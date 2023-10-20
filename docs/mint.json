@@ -252,7 +252,11 @@
           "group": "Plain",
           "pages": [
             "integrations/apis/plain",
+<<<<<<< HEAD
             "integrations/apis/plainTasks"
+=======
+            "integrations/apis/plain-tasks"
+>>>>>>> abc9737a4f327107ca2c646b2c361d0b1fa149ff
           ]
         },
         "integrations/apis/replicate",
